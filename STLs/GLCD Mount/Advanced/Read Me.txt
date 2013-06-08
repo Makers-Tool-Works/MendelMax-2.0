@@ -1,0 +1,4 @@
+This is the same basic LCD case as above, but designed with much tighter tolerances for a very well tuned 
+printer. If you find the lcd moves around too much in the other version, you can print these files instead. 
+
+The knob is the same in both versions.
